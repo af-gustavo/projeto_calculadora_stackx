@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="./calculator.css">
+    <script src="./calculator.js"></script>
+</head>
+
+<body>
+    <div>
+        <table>
+            <tr height=25px>
+                <td colspan="4"><input type="text" id="display" disabled></td>
+            </tr>
+            <tr>
+                <td><button onclick="addToDisplay(1)">1</button></td>
+                <td><button onclick="addToDisplay(2)">2</button></td>
+                <td><button onclick="addToDisplay(3)">3</button></td>
+                <td><button onclick="cleanDisplay()">C</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="addToDisplay(4)">4</button></td>
+                <td><button onclick="addToDisplay(5)">5</button></td>
+                <td><button onclick="addToDisplay(6)">6</button></td>
+                <td><button onclick="addToDisplay('/')">/</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="addToDisplay(7)">7</button></td>
+                <td><button onclick="addToDisplay(8)">8</button></td>
+                <td><button onclick="addToDisplay(9)">9</button></td>
+                <td><button onclick="addToDisplay('*')">X</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="addToDisplay(0)">0</button></td>
+                <td><button onclick="calculate(); addHistoryDisplay(); cleanDisplay()">=</button></td>
+                <td><button onclick="addToDisplay('+')">+</button></td>
+                <td><button onclick="addToDisplay('-')">-</button></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <td colspan="2"><input type="text" id="dateTimeDisplay1" disabled></td>
+                <td colspan="2"><input type="text" id="historyDisplay1" disabled></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="text" id="dateTimeDisplay2" disabled></td>
+                <td colspan="2"><input type="text" id="historyDisplay2" disabled></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="text" id="dateTimeDisplay3" disabled></td>
+                <td colspan="2"><input type="text" id="historyDisplay3" disabled></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="text" id="dateTimeDisplay4" disabled></td>
+                <td colspan="2"><input type="text" id="historyDisplay4" disabled></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="text" id="dateTimeDisplay5" disabled></td>
+                <td colspan="2"><input type="text" id="historyDisplay5" disabled></td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

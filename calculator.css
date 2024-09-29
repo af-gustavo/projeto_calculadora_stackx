@@ -1,0 +1,13 @@
+div {
+    display: inline-block;
+}
+
+table {
+    color: rgb(120, 120, 192);
+    border: 3px solid;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+}
