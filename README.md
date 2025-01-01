@@ -1,4 +1,4 @@
-# Calculadora Web com Histórico de Operações
+# README - Calculadora Web com Histórico de Operações
 
 ## Descrição do Projeto
 
