@@ -35,7 +35,7 @@ Este é um projeto de uma **Calculadora Web** desenvolvida com **HTML5**, **CSS*
 1. **Clonando o Repositório**:
    ```bash
    git clone https://link-do-repositorio.git
-2. **Clonando o Repositório**: Para este projeto, não há dependências adicionais além da biblioteca jQuery. Se preferir, pode usar um CDN diretamente no código HTML.
+2. **Clonando o Repositório**: Para este projeto, não há dependências adicionais.
 3. **Clonando o Repositório**: Após clonar o repositório, basta abrir o arquivo index.html em qualquer navegador para visualizar o portfólio.
 
 ## Estrutura:
