@@ -38,7 +38,7 @@ Este é um projeto de uma **Calculadora Web** desenvolvida com **HTML5**, **CSS*
 2. **Clonando o Repositório**: Para este projeto, não há dependências adicionais além da biblioteca jQuery. Se preferir, pode usar um CDN diretamente no código HTML.
 3. **Clonando o Repositório**: Após clonar o repositório, basta abrir o arquivo index.html em qualquer navegador para visualizar o portfólio.
 
-## Personalização:
+## Estrutura:
 
 Caso queira personalizar o conteúdo, basta editar os arquivos HTML, CSS e JavaScript localizados nas pastas e arquivos correspondentes:
 
