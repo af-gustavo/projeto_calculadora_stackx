@@ -42,9 +42,9 @@ Este é um projeto de uma **Calculadora Web** desenvolvida com **HTML5**, **CSS*
 
 Caso queira personalizar o conteúdo, basta editar os arquivos HTML, CSS e JavaScript localizados nas pastas e arquivos correspondentes:
 
-- **index.html:** Estrutura básica do site.
-- **style.css:** Arquivo de estilos (customize o design de acordo com suas preferências).
-- **script.js:** Arquivo JavaScript com as funcionalidades interativas.
+- **calculator.html:** Estrutura básica do site.
+- **calculator.css:** Arquivo de estilos (customize o design de acordo com suas preferências).
+- **calculator.js:** Arquivo JavaScript com as funcionalidades interativas.
 
 ## Contribuições:
 
